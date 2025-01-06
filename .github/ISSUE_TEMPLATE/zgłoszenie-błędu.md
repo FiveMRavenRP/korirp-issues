@@ -14,7 +14,7 @@ Podaj klarowny opis błędu, abyśmy mogli go zrozumieć.
 Podaj korki, abyśmy mogli odtworzyć błąd:
 1. Pójdź do '...'
 2. Naciśnij na '....'
-3. Przwiń do '....'
+3. Przewiń do '....'
 4. Zobacz błąd
 
 **Oczekiwany rezultat**
