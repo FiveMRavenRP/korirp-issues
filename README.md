@@ -1,2 +1,2 @@
-# korirp-issues
-Można tu zgłosić problemy, które występują na KoriRP 
+# RavenRP-issues
+Można tu zgłosić problemy, które występują na RavenRP
